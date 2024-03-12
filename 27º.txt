@@ -1,0 +1,6 @@
+﻿MIGRACION 
+Herramientas->Administrador paquete de Nuget->Consola de administracion
+
+add-migration CreacionTablaUsuario
+update-database
+
